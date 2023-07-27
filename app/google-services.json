@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58507873591",
+    "project_id": "agendamento-db",
+    "storage_bucket": "agendamento-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58507873591:android:09d02de298ea8da3fb5eb2",
+        "android_client_info": {
+          "package_name": "app.kotlin.devpbleite.barbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58507873591-7o0cq31kvv6q70ou54ho773n4def6l2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhGlX_s7N0rx_tlePAgzz0GPXnj9KcCdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58507873591-7o0cq31kvv6q70ou54ho773n4def6l2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
